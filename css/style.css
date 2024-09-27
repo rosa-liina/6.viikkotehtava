@@ -1,0 +1,37 @@
+body {
+    font-size: 18px;
+}
+
+table {
+    width: 50%;
+
+    border-collapse: separate;
+
+    border-spacing: 15px;
+
+}
+
+table td {
+
+    font-size: 24px;
+
+    padding: 20px;
+
+    text-align: center;
+
+    background-color: #f0ca88;
+
+    border-radius: 10px;
+}
+
+
+button {
+    background-color: lightsteelblue;
+    font-size: 20px;
+
+    border-radius: 10px;
+
+    padding: 10px 20px;
+
+    cursor: pointer;
+}
